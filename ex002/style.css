@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(49, 49, 49);
+    color: rgb(0, 255, 0);
+}
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+hr {
+    width: 500px;
+    margin-left: 0px;
+    padding: 2px;
+    background-color: black;
+    border-radius: 3px;
+    border: none;
+}
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img{
+    width: 22vh;
+}
